@@ -1,0 +1,30 @@
+---
+title: Links
+in_menu: true
+template: plain.template
+sort_info: 5
+
+--- name:content pipeline:redcloth
+h2. Links
+
+p. %{color:green}Links to external sites with an emphasis on the environment, sustainability and community.%
+
+h3. Gardening
+
+(numberlist)* "Garden Organic (previously HDRA)":http://www.gardenorganic.org.uk/ Research and promotion of organic gardening, farming and food
+* "National Society and Leisure Gardeners":http://www.nsalg.org.uk/ Promotion, protection and preservation of allotment gardening
+* "Soil Association":http://www.soilassociation.org/ Certification and campaigning for organic food and farming in UK
+* "BBC Gardening":http://www.bbc.co.uk/gardening/ Comprehensive (archived) site with emphasis on flowers and garden design
+* "Pesticide Action Network":http://www.pan-uk.org Pesticide free gardening tips
+* "Museum of Garden History":http://www.gardenmuseum.org.uk Historic implements, garden with courtyard cafe and Admiral Bligh's tomb
+* "Kings Cross Skip Garden":https://www.kingscross.co.uk/skip-garden Sustainable urban community garden with beehives, chicken coops and attached cafe serving food grown in the garden.
+* "London Food Link":https://www.sustainweb.org/londonfoodlink/ Promoting a healthy, sustainable and ethical food system for London.
+
+h3. Local          
+
+(numberlist)* "Evering Road Kitchen Garden":https://everingroadgarden.com A gardening project run by North London Action for the Homeless
+* "Cordwainers Garden":https://cordwainersgarden.wordpress.com A Hackney community garden with allotments, beehive and pond
+* "Growing Communities":http://www.growingcommunities.org The organisation behind the Stoke Newington farmers' market
+* "Hackney Society":http://www.hackneysociety.org Attempting to conserve the best of Hackney's built environment
+* "Abney Park Cemetery":http://www.abneypark.org North Hackney's green lung with exciting weeding opportunities
+* "CHUG":http://chug.org.uk Hackney canals user group with a floating allotment in Kingsland Basin

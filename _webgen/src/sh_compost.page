@@ -1,0 +1,60 @@
+---
+title: Compost bin Spring Hill
+in_menu: false
+template: photo.template
+
+--- name:content pipeline:redcloth
+h2. Compost bin construction at Spring Hill 3rd December 2005
+
+<div class="row">
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost1.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost1.jpg" class="img-responsive" alt="photo1" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost2.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost2.jpg" class="img-responsive" alt="photo2" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost3.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost3.jpg" class="img-responsive" alt="photo3" /></a>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-4 thumbnail ">
+                <a class="fancybox" href="sh_compost/compost8.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost8.jpg" class="img-responsive" alt="photo4" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost5.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost5.jpg" class="img-responsive" alt="photo5" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost6.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost6.jpg" class="img-responsive" alt="photo6" /></a>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-4 thumbnail ">
+                <a class="fancybox" href="sh_compost/compost7.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost7.jpg" class="img-responsive" alt="photo7" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost4.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost4.jpg" class="img-responsive" alt="photo8" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost/compost9.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost/compost9.jpg" class="img-responsive" alt="photo9" /></a>
+   </div>
+</div>
+
+
+p. photos thanks to Claire Adams
+
+--- name:sidebar pipeline:redcloth
+h3. Compost project
+
+(linklist)* "Aden Terrace 2006":at_compost.html
+* "Spring Hill 2006":sh_compost2.html
+

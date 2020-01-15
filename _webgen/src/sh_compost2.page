@@ -1,0 +1,41 @@
+---
+title: Compost bin Spring Hill
+in_menu: false
+template: photo.template
+
+--- name:content pipeline:redcloth
+h2. Compost bin construction at Spring Hill 18th and 19th March 2006
+
+<div class="row">
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost2/compost5.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost2/compost5.jpg" class="img-responsive" alt="photo1" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost2/compost6.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost2/compost6.jpg" class="img-responsive" alt="photo2" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail ">
+                <a class="fancybox" href="sh_compost2/compost4.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost2/compost4.jpg" class="img-responsive" alt="photo3" /></a>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost2/compost1.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost2/compost1.jpg" class="img-responsive" alt="photo4" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_compost2/compost2.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_compost2/compost2.jpg" class="img-responsive" alt="photo5" /></a>
+   </div>
+</div>
+
+p. photos thanks to Joss Bany
+
+--- name:sidebar pipeline:redcloth
+h3. Compost project
+
+(linklist)* "Aden Terrace 2006":at_compost.html
+* "Spring Hill 2005":sh_compost.html
+

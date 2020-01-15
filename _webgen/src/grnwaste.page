@@ -1,0 +1,48 @@
+---
+title: Green waste collection dates
+in_menu: false
+template: default.template
+
+--- name:content pipeline:redcloth
+h2. Green waste collection
+
+p. Hackney Council's green waste collection (the brown bins) will be operating from the following allotment sites with a two weekly cycle:
+
+    (numberlist)* Aden Terrace - Thursday, Week 2 collection
+    * Church Walk (using sacks) - Thursday, Week 2 collection
+    * Leaside Road - Monday, Week 1 collection
+    * Overbury Street - Wednesday, Week 2 collection
+    * Spring Hill - Friday, Week 2 collection
+    * Spring Lane - Friday, Week 2 collection
+
+h3. Brown bin usage
+
+p. It is always preferable to use the compost bins rather than the brown bins but for pernicious weeds or woody material use the brown bins. The brown bin can be used for:
+
+    (numberlist)* grass
+    * plants
+    * leaves
+    * hedge clippings
+    * branches
+    * flowers
+
+p. It cannot be used for:
+
+    (numberlist)* soil
+    * paper
+    * glass
+    * pet Waste
+    * plastics
+    * DIY wood
+    * stones and rubble
+    * cans
+    * food
+
+
+--- name:sidebar pipeline:redcloth
+h3. Composting
+
+(linklist)* "Compost project":compsumm.html
+* "Quick guide to composting":cguide.html
+* "Bin construction":docs/compost_bin.pdf
+

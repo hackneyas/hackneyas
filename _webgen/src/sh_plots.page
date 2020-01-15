@@ -1,0 +1,43 @@
+---
+title: New plots Spring Hill
+in_menu: false
+template: photo.template
+
+--- name:content pipeline:redcloth
+h2. Construction of new plots at Spring Hill May 2007
+
+<div class="row">
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_plots/plot1.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot1.jpg" class="img-responsive" alt="photo1" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_plots/plot2.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot2.jpg" class="img-responsive" alt="photo2" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_plots/plot3.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot3.jpg" class="img-responsive" alt="photo3" /></a>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-4 thumbnail ">
+                <a class="fancybox" href="sh_plots/plot4.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot4.jpg" class="img-responsive" alt="photo4" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_plots/plot5.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot5.jpg" class="img-responsive" alt="photo5" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="sh_plots/plot6.jpg" data-fancybox-group="gallery" title="">
+                <img src="sh_plots/plot6.jpg" class="img-responsive" alt="photo6" /></a>
+   </div>
+</div>
+
+p. photos thanks to Coralie Datta
+
+--- name:sidebar pipeline:redcloth
+h3. Site works
+
+(linklist)* "Fencing at Spring Hill & Spring Lane":fence.html

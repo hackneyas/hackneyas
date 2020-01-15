@@ -1,0 +1,42 @@
+---
+title: Church Walk allotments
+in_menu: false
+template: photo.template
+
+--- name:content pipeline:redcloth
+h2. Church Walk allotments - summer 2009
+
+<div class="row">
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="cw_photo/photo1.jpg" data-fancybox-group="gallery" title="">
+                <img src="cw_photo/photo1.jpg" class="img-responsive" alt="photo1" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="cw_photo/photo2.jpg" data-fancybox-group="gallery" title="">
+                <img src="cw_photo/photo2.jpg" class="img-responsive" alt="photo2" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="cw_photo/photo3.jpg" data-fancybox-group="gallery" title="">
+                <img src="cw_photo/photo3.jpg" class="img-responsive" alt="photo3" /></a>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-4 thumbnail ">
+                <a class="fancybox" href="cw_photo/photo4.jpg" data-fancybox-group="gallery" title="">
+                <img src="cw_photo/photo4.jpg" class="img-responsive" alt="photo4" /></a>
+   </div>
+   <div class="col-sm-4 thumbnail">
+                <a class="fancybox" href="cw_photo/photo5.jpg" data-fancybox-group="gallery" title="">
+                <img src="cw_photo/photo5.jpg" class="img-responsive" alt="photo5" /></a>
+   </div>
+</div>
+
+--- name:sidebar pipeline:redcloth
+h3. Other sites
+
+(linklist)* "Aden Terrace":at_photo.html
+* "Overbury Street":ob_photo.html
+* "St. Kilda's Road":sk_photo.html
+* "Springdale Road":sr_photo.html
+* "Spring Hill":sh_photo.html
+* "Spring Lane":sl_photo.html

@@ -1,0 +1,40 @@
+---
+template: ~
+---
+<!DOCTYPE html lang="en">
+  <head>
+    {include_file: {filename: head_default.html, escape_html: false}}
+
+    <link rel="stylesheet" href="css/fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/fancybox.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/* Simple image gallery. Uses default settings */
+			$('.fancybox').fancybox();
+		});
+	</script>
+	<title>{title:}</title>
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        {include_file: {filename: top_menu.html, escape_html: false}}
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+         <div class="col-sm-12">	
+           <div id="photowrap">
+             <webgen:block name="content" />
+           </div>
+         </div>  
+       </div>
+    </div>     
+
+    {include_file: {filename: footer_default.html, escape_html: false}}
+
+  </body>
+</html>
+

@@ -1,0 +1,17 @@
+---
+title: 404 page
+in_menu: false
+template: plain.template
+permalink: /404.html
+
+--- name:content pipeline:redcloth
+
+<notextile>
+<div id="about" class="container text-center">
+  <h1>Page not found</h1>
+  <div class="jumbotron">
+    <p>Oops! The page you are looking for seems to have disappeared. Please try one of the items in the menu above.</p>
+    <img class="img-responsive" src="https://hackneyallotments.org.uk/slides/slide4.jpg" alt="robin looking for missing page"> 
+  </div>
+</div>
+</notextile>
