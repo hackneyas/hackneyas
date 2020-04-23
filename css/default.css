@@ -63,11 +63,11 @@ footer {
 
 footer p {font-size:16px;}
 
-footer img {opacity:0.5; max-height: 60px;}
+footer img {opacity:0.5; max-height: 55px;}
 
 footer hr {
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border: 0;
     border-top: 3px solid #777;
 }
@@ -109,8 +109,10 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
 
 .jumbotron {
   background-color: #f1f7a1;
-  padding-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-top: 10px;
+  margin-bottom: 15px;
   border-width: 2px;
   border-color: black;
   border-style: solid;
@@ -124,3 +126,4 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
   margin-top: 10px;
   color: #de1515;
 }
+
