@@ -6,7 +6,7 @@ template: plain.template
 --- name:content pipeline:redcloth
 h2. Society history
 
-p. %{color:green}presented at the AGM 2009 and abstracted from the Spring 2010 newsletter%
+p. %{color:green}presented at the AGM 2009 and copied from the Spring 2010 newsletter%
 
 p. Thirty years ago, in 1979, an article appeared in the &#39;Hackney People&#8217;s Press&#39;, a now 
 defunct free radical paper. The article was written about the borough having empty 

@@ -57,7 +57,15 @@ template: ~
         </div>
       </div>
 
+
     <div class="container">
+             <!-- temporary notice -->
+			<div class="jumbotron">
+				<h2>Covid 19</h2>
+				<p>PLEASE be sensible and think of others when going to your allotment: wear gloves or apply hand sanitiser before and after touching ANY hard surfaces: ie padlock, chain, fence rails, watering cans and taps.</p>
+				<p>Covid19 can stay on metal, glass & plastic for as long as 9 days.</p>
+			</div>
+
       <div class="row">
         <div class="col-sm-8">
  	        <div id="contentalt">
