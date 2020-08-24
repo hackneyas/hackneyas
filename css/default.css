@@ -111,7 +111,7 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
 /* styling for front page announcements */
 
 .jumbotron {
-  background-color: #f1f7a1;
+  background-color: #F0F8FF;
   padding-top: 10px;
   padding-bottom: 10px;
   margin-top: 10px;
@@ -130,3 +130,19 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
   color: #de1515;
 }
 
+/* styling for sticky footer */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 190px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 190px;
+}
