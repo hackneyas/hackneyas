@@ -9,7 +9,7 @@ sort_info: 1
 h2. About us
 
 p. The Hackney Allotment Society, founded in 1979, is a registered charity 
-"(number 294128)":http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=294128&SubsidiaryNumber=0 
+"(number 294128)":https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id=uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_LIFERAY_SHARED_backToSearch=https%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D294128%26_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=294128 
 managed by a voluntary committee. The aim of the Society is to promote horticulture in the London Borough of Hackney. We have 9 sites across the borough with a total of 133 full plots. Some plots are split into half plots and we have two raised bed plots. Demand for plots is high and a waiting list is maintained. Waiting time is likely to be several years depending on your choice of site.
 
 h2. Becoming a member %{color:#8C001A; font-size:0.8em; font-weight:normal}- list temporarily closed%
@@ -24,17 +24,13 @@ bq. The most noteworthy thing about gardeners is that they are always optimistic
 
 --- name:sidebar pipeline:redcloth
 
+h3. AGM 2020 report and proposals
+
+p. %{color:#8C001A; font-size:1.0em; font-weight:bold}NEW% "Notice":docs/agm2020.pdf of the 2020 AGM with Chair's report, new management proposals, responses to 2019 AGM ideas and list of officers and site representatives.
+
 h3. Summer 2020 newsletter
 
-p. %{color:red; font-size:1.0em; font-weight:bold}NEW% The photo rich "Summer":docs/sum_2020.pdf lockdown edition newsletter with social distanced AGM arrangements, reflections on allotment themed lockdown, growing garlic &#38; asparagus peas, plant identification and Covid19 alert.
-
-h3. Edinburgh allotments
-
-p. %{color:red; font-size:1.0em;  font-weight:bold}NEW% "Photos":https://www.theguardian.com/lifeandstyle/gallery/2020/apr/16/we-feel-blessed-edinburgh-allotment-holders-in-pictures of Edinburgh allotments and their holders.
-
-h3. AGM 2019 minutes
-
-p. "Minutes":docs/agm2019.pdf of the 2019 AGM with reports from the Chair and Treasurer, election of officers, issued raised and best plot awards.
+p. The photo rich "Summer":docs/sum_2020.pdf lockdown edition newsletter with social distanced AGM arrangements, reflections on allotment themed lockdown, growing garlic &#38; asparagus peas, plant identification and Covid19 alert.
 
 h3. Waiting list
 

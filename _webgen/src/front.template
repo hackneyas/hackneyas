@@ -6,6 +6,16 @@ template: ~
     {include_file: {filename: head_default.html, escape_html: false}}
 
   	<title>HAS Home</title>
+  	<style>
+      body {
+       /* Margin bottom by footer height */
+         margin-bottom: 190px;
+      }
+      .footer {
+       /* Set the fixed height of the footer here */
+        height: 190px;
+      }
+  	</style>
   </head>
 
   <body>
