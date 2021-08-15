@@ -45,6 +45,7 @@ p. The next committee meeting of site representatives will be at 19.30 on 28th O
 
 # 'New' in page lists
 %{color:red; font-size:0.8em; font-weight:bold}NEW%
+%{color:#8C001A; font-size:1.0em; font-weight:bold}NEW%
 
 # html for front page notice - example
 			<div class="jumbotron">
