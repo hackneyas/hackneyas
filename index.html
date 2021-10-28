@@ -1,4 +1,5 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -9,10 +10,9 @@
     <meta name="robots" content="FOLLOW,INDEX" />
     <meta name="generator" content="Webgen" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   	<link rel="stylesheet" href="css/default.css" type="text/css"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="favicon.ico" />
 
     <!--[if lt IE 9]>
@@ -24,175 +24,157 @@
   	<style>
       body {
        /* Margin bottom by footer height */
-         margin-bottom: 190px;
+         margin-bottom: 210px;
       }
       .footer {
        /* Set the fixed height of the footer here */
-        height: 190px;
+        height: 210px;
       }
   	</style>
   </head>
 
   <body>
 
-    <div class="container-fluid">
+        <div class="container-fluid">
       <div class="row">
-                <header class="navbar navbar-inverse navbar-fixed-top">
-          <div class="container">
-            <div class="navbar-header">
-              <button class="navbar-toggle" type="button" data-toggle="collapse"   data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a href="#" class="navbar-brand hidden-xs">Hackney Allotment Society</a>
-              <a href="#" class="navbar-brand visible-xs">Hackney Allotments</a>
-            </div>
-            <nav class="collapse navbar-collapse" id="myNavbar">
-              <ul class="nav navbar-nav navbar-right"><li class="webgen-menu-level1 active"><a href="index.html" hreflang="en">Home</a></li><li class="webgen-menu-level1"><a href="sites.html" hreflang="en">Sites</a></li><li class="webgen-menu-level1"><a href="news.html" hreflang="en">News</a></li><li class="webgen-menu-level1"><a href="info.html" hreflang="en">Advice</a></li><li class="webgen-menu-level1"><a href="links.html" hreflang="en">Links</a></li></ul>
-            </nav>
-          </div>
-        </header>
- 
+
+        <nav class="navbar navbar-expand-md navbar-dark bg-secondary">
+          <div class="container pl-0">  
+           <a href="#" class="navbar-brand d-none d-sm-block">Hackney Allotment Society</a>
+           <a href="#" class="navbar-brand d-block d-sm-none">Hackney Allotments</a>
+
+             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+             </button>
+             <div class="collapse navbar-collapse" id="navbarSupportedContent">
+               <ul class="nav navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="sites.html" class="nav-link">Sites</a></li>
+                <li class="nav-item"><a href="news.html" class="nav-link">News</a></li>
+                <li class="nav-item"><a href="info.html" class="nav-link">Advice</a></li>
+                <li class="nav-item1"><a href="links.html" class="nav-link">Links</a></li>
+              </ul>
+             </div>
+           </div>       
+         </nav>
 
       </div>
     </div>
 
-      <!-- carousel -->
-      <div class="container">
-        <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel">
-          <!-- Carousel indicators -->
-          <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
-          </ol>
-          <!-- Wrapper for carousel items -->
-          <div class="carousel-inner">
-            <div class="item active">
-                <img src="slides/slide1.jpg" alt="pest control">
-            </div>
-            <div class="item">
-                <img src="slides/slide2.jpg" alt="harvest">
-            </div>
-            <div class="item">
-                <img src="slides/slide3.jpg" alt="recyled shed">
-            </div>
-            <div class="item">
-                <img src="slides/slide4.jpg" alt="robin">
-            </div>
-            <div class="item">
-                <img src="slides/slide5.jpg" alt="artichoke">
-            </div>
-          </div>
-          <!-- Left and right controls -->
-          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
 
+    
+    <div id="banner-header" class="banner"></div>
 
-    <div class="container">
+    <div class="container mt-3 pt-3 pb-3" style="background-color: #F0F8FF;border-width: 1px;border-color: gray; border-style: solid;">
              <!-- temporary notice -->
-			<div class="jumbotron">
-        <h2>Plant Share</h2>
-        <p>Socially distanced plant share - front garden of Rosemary House, Grazebrook Rd, N16 0HT - 10am to 1pm Saturday 23 October 2021</p> 
 				<h2>Covid 19</h2>
 				<p>PLEASE think of others when going to your allotment: wear gloves or apply hand sanitiser before and after touching ANY hard surfaces: ie padlock, chain, fence rails, watering cans and taps.</p>
-			</div>
+		</div>
 
+    <div class="container">
       <div class="row">
-        <div class="col-sm-8">
- 	        <div id="contentalt">
-               <h2>About us</h2>
-<p>The Hackney Allotment Society, founded in 1979, is a registered charity 
-<a href="https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/294128/full-print">(number 294128)</a> 
-managed by a voluntary committee. The aim of the Society is to promote horticulture in the London Borough of Hackney. We have 9 sites across the borough with a total of 133 full plots. Some plots are split into half plots and we have two raised bed plots. Demand for plots is high and a waiting list is maintained. Waiting time is likely to be several years depending on your choice of site.</p>
-<h2>Becoming a member <span style="color:#8C001A; font-size:0.8em; font-weight:normal;">- list temporarily closed</span></h2>
-<p>To join the Society and have your name added to the <a href="waiting.html">waiting list</a> you must be a resident of the London Borough of Hackney. Membership of the Society is currently &pound;4 per annum, renewable on 1st October each year.</p>
-<p>As a member, you will receive regular newsletters, and you may attend and vote at the <span class="caps">AGM</span> and participate in the running of the Society and other events. When a plot becomes available for you, you will receive an offer letter and be invited to visit the vacant plot prior to acceptance. The plot rent for 2020/21 is &pound;31 per annum for a full plot (&pound;15.50 concessions) and &pound;15.50 per annum for a half plot (&pound;7.75 concessions). The membership fee of &pound;4 is payable in addition to these amounts.</p>
-               <div class="hidden-xs">
-				   <blockquote>
-<p>The most noteworthy thing about gardeners is that they are always optimistic, always enterprising and never satisfied. They always look forward to doing something better than they have ever done before. <span style="color:black;">- Vita Sackville-West</span></p>
-</blockquote>
-			   </div>   
-               <hr/>
-          </div>
-        </div>
+         <div class="col-md-8 mt-3 contentalt">
+               
+<h2 id="about-us">About us</h2>
 
-        <div class="col-sm-4">
-	        <div id="rightside">
-              <h3><span class="caps">AGM</span> 2021</h3>
-<p>This year&#8217;s <span class="caps">AGM</span> was held virtually on <span class="caps">ZOOM</span> on 6th October. Details to follow.</p>
-<h3>Tales from a Wood Green allotment</h3>
-<p><a href="https://www.bbc.co.uk/sounds/play/m000ykmt">The Patch:</a> A <span class="caps">BBC</span> radio programme &#40;registration required&#41; from Wolves Lane allotment.</p>
-<h3>A plot matching website</h3>
-<p><a href="https://www.allotme.co.uk/">AllotMe:</a> A digital platform to pair anyone with available outdoor space with people seeking to grow their own.</p>
-<h3>Spring 2021 newsletter</h3>
-<p>The <a href="docs/spr_2021.pdf">Spring</a> newsletter with <span class="caps">AGM</span> 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.</p>
-<h3>Allotments during the pandemic</h3>
-<p>A <span class="caps">BBC</span> <a href="https://www.bbc.co.uk/news/uk-england-essex-57438179">article</a> investigating the benefits of allotments during the coronavirus pandemic focusing on a 100 plot site in Colchester.</p>
-<h3>Waiting list</h3>
-<p>Since 4th June 2008 the Committee has decided to <span style="color:#8C001A;"><span class="caps">CLOSE</span></span> the waiting list for the time-being due to unprecedented demand. However, at the 2017 <span class="caps">AGM</span>, it was decided to reopen the list from 1st to 15th March 2018 to enrol up to 100 new members. The waiting list is now closed again for the forseeable future.
-<br/><a href="waiting.html">more&#8230;</a></p>
-<h3>Society history</h3>
-<p>A brief description of the Society&#8217;s <a href="history.html">foundation</a>.</p>
-<h3>Plot search</h3>
-<p>The Society is on the lookout for new sites.  If you spot any disused land in Hackney which could be converted into a valuable growing plot, send as much information as possible to our <a href="mailto:hackneyallotments@gmail.com">Secretary</a> who will investigate.
-<br/></p>
-<ul class="linklist">
+<p>The Hackney Allotment Society, founded in 1979, is a registered charity 
+<a href="https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/294128/full-print">number 294128</a>
+managed by a voluntary committee. The aim of the Society is to promote horticulture in the London Borough of Hackney. We have 9 sites across the borough with a total of 133 full plots. Some plots are split into half plots and we have two raised bed plots. Demand for plots is high and a waiting list is maintained. Waiting time is likely to be several years depending on your choice of site.</p>
+
+             <div class="more">  
+               <a class="btn btn-outline-success mb-4" role="button" href="history.html">Read more</a>
+             </div>
+               
+<h2> Becoming a member <span style="color:#8C001A; font-size:0.7em; font-weight:normal">- list temporarily closed</span></h2>
+
+<p>To join the Society and have your name added to the <a href="waiting.html">waiting list</a> you must be a resident of the London Borough of Hackney. Membership of the Society is currently £4 per annum, renewable on 1st October each year.</p>
+
+<p>As a member, you will receive regular newsletters, and you may attend and vote at the AGM and participate in the running of the Society and other events. When a plot becomes available for you, you will receive an offer letter and be invited to visit the vacant plot prior to acceptance. The plot rent for 2020/21 is £31 per annum for a full plot (£15.50 concessions) and £15.50 per annum for a half plot (£7.75 concessions). The membership fee of £4 is payable in addition to these amounts.</p>
+
+             <div class="more">  
+               <a class="btn btn-outline-success mb-3" role="button" href="waiting.html">Read more</a>
+             </div>    
+             <div class="p-3 d-none d-md-block">   
+               <ul class="mainlist">
+                <li><a href="constitution.html">Society constitution</a></li>
+                <li><a href="bylaws.html">Society bylaws</a></li>
+                <li><a href="document.html">Document archive</a></li>
+               </ul>
+             </div>         
+         </div>    
+         <div class="col-md-4 mt-3 bg-light rightside">
+              
+<h3 id="agm-2021">AGM 2021</h3>
+
+<p>This year’s AGM was held virtually on ZOOM on 6th October. Details to follow.</p>
+
+<h3 id="tales-from-a-wood-green-allotment">Tales from a Wood Green allotment</h3>
+
+<p><a href="https://www.bbc.co.uk/sounds/play/m000ykmt">The Patch</a> A BBC radio programme (registration required) from Wolves Lane allotment.</p>
+
+<h3 id="a-plot-matching-website">A plot matching website</h3>
+
+<p><a href="https://www.allotme.co.uk/">AllotMe</a> A digital platform to pair anyone with available outdoor space with people seeking to grow their own.</p>
+
+<h3 id="spring-2021-newsletter">Spring 2021 newsletter</h3>
+
+<p>The <a href="docs/spr_2021.pdf">Spring</a> newsletter with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.</p>
+
+<h3 id="allotments-during-the-pandemic">Allotments during the pandemic</h3>
+
+<p>A BBC <a href="https://www.bbc.co.uk/news/uk-england-essex-57438179">article</a> investigating the benefits of allotments during the coronavirus pandemic focusing on a 100 plot site in Colchester.</p>
+
+<h3 id="plot-search">Plot search</h3>
+
+<p>The Society is on the lookout for new sites.  If you spot any disused land in Hackney which could be converted into a valuable growing plot, send as much information as possible to our <a href="mailto:hackneyallotments@gmail.com">Secretary</a> who will investigate.</p>
+
+<ul class="linklist d-none d-sm-block d-md-none pt-3">
     <li><a href="constitution.html">Society constitution</a></li>
     <li><a href="bylaws.html">Society bylaws</a></li>
     <li><a href="document.html">Document archive</a></li>
 </ul>
-	        </div>
-	      </div>
 
-      </div>
-    </div>
+         </div>  
 
+       </div>
+
+     </div>
+      
        <footer class="footer"> 
-		<div class="container" style="background:#dff0d8;">
-      <br/>
+     <div class="container" style="background:#dff0d8;">
+       <br/>
 
-	  <div class="row">
+	     <div class="row">
 
-        <div class="col-sm-4">
+          <div class="col-sm-12 col-md-4 col-lg-4">
           <p>Chair: Penny Miller<br/>
-             Vice Chair: Ruth Gladwin</br>
+             Vice Chair: Ruth Gladwin<br/>
              Treasurer: Hugh Naylor</p>
-        </div>
+          </div>
         
-        <div class="col-sm-4">
+          <div class="col-sm-12 col-md-4 col-lg-4">
           <p>Secretary: <a href="mailto:hackneyallotments@gmail.com?subject=Allotment enquiry">Nancy Korman</a><br/>
              Newsletter: Annie Wilson<br/>
              Design: Amanda Scope</p>
-        </div>
+          </div>
                       
-        <div class="col-sm-4">
-          <p>hackneyallotments@gmail.com</br>
-          <!-- Modified: 2021-10-15 <br/> -->
+          <div class="col-sm-12 col-md-4 col-lg-4">
+          <p>hackneyallotments@gmail.com<br/>
+          <!-- Modified: 2021-10-26 <br/> -->
           &copy; 2021 Hackney Allotment Society</p>
 
+          </div>
+        </div>
+
+        <div class="row">
+         <img class="d-none d-md-block mx-auto" style="width: 550px;" src="images/has_logo.png" alt="HAS logo">
+         <hr class="d-none d-md-block">
         </div>
       </div>
-
-      <div class="row hidden-xs">
-         <img class="img-responsive center-block" src="images/has_logo.png" alt="logo">
-         <hr/>
-      </div>
-</div>
     </footer>
 
 
+      
 
 
   </body>
