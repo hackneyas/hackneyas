@@ -4,72 +4,75 @@ in_menu: true
 template: narrowside.template
 sort_info: 3
 
---- name:content pipeline:redcloth
+--- name:content
 
-h2. News
+## News
 
-h3. Tales from a Wood Green allotment
+### Tales from a Wood Green allotment
 
-p. "The Patch:":https://www.bbc.co.uk/sounds/play/m000ykmt A BBC radio programme &#40;registration required&#41; from  Wolves Lane allotment.
+[The Patch](https://www.bbc.co.uk/sounds/play/m000ykmt) A BBC radio programme &#40;registration required&#41; from  Wolves Lane allotment.
 
-h3. A new plot matching website
+### A new plot matching website
 
-"AllotMe:":https://www.allotme.co.uk/ A digital platform to pair anyone with available outdoor space with people seeking to grow their own.
+[AllotMe](https://www.allotme.co.uk/) A digital platform to pair anyone with available outdoor space with people seeking to grow their own.
 
-h3. Allotments during the pandemic
+### Allotments during the pandemic
 
-p. BBC "article":https://www.bbc.co.uk/news/uk-england-essex-57438179 about a Chelmsford allotment site.
+BBC [article](https://www.bbc.co.uk/news/uk-england-essex-57438179) about a Chelmsford allotment site.
 
-h3. Spring 2021 newsletter
+### Spring 2021 newsletter
 
-p. "Spring":docs/spr_2021.pdf newsletter with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
+[Spring](docs/spr_2021.pdf) newsletter with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
 
-h3. AGM 2020 report and proposals
+### AGM 2020 report and proposals
 
-p. "Notice":docs/agm2020.pdf of the 2020 AGM with Chair's report, new management proposals, responses to 2019 AGM ideas and list of officers and site representatives.
+[Notice](docs/agm2020.pdf) of the 2020 AGM with Chair's report, new management proposals, responses to 2019 AGM ideas and list of officers and site representatives.
 
-h3. AGM 2020 outcome
+### AGM 2020 outcome
 
-p. Election of officers, "results":docs/agm2020_outcome.pdf of the vote on new management proposals and plot awards.
+Election of officers, [results](docs/agm2020_outcome.pdf) of the vote on new management proposals and plot awards.
 
-h3. Ideas for growing over winter
+### Ideas for growing over winter
 
-p. "Slides":docs/winter_growing.pdf from Stephanie Irvine&#8217;s talk at AGM 2014 on what vegetables could be grown over winter, the use of green manures and the importance of making places for wildlife to survive over winter on allotment sites.
+[Slides](docs/winter_growing.pdf) from Stephanie Irvine&#8217;s talk at AGM 2014 on what vegetables could be grown over winter, the use of green manures and the importance of making places for wildlife to survive over winter on allotment sites.
 
-h3. Contaminated manure
+### Contaminated manure
 
-p. Powerful industrial herbicide found in manure blights allotment crops. Read the full story "here":https://www.theguardian.com/environment/2008/jun/29/food.agriculture.
+Powerful industrial herbicide found in manure blights allotment crops. Read the full story [here](https://www.theguardian.com/environment/2008/jun/29/food.agriculture).
 
       
-h3. Allotments in the news
+### Allotments in the news
 
-(numberlist)* Edinburgh allotments 2020 - "photographs":https://www.theguardian.com/lifeandstyle/gallery/2020/apr/16/we-feel-blessed-edinburgh-allotment-holders-in-pictures during Covid 19 lockdown.
-* National Allotments Week 2016 - "photographs":https://www.theguardian.com/lifeandstyle/ng-interactive/2016/aug/15/growing-together-an-allotment-picture-essay from a Bristol allotment.
-* It&#8217;s official - "allotments":https://www.theguardian.com/environment/2014/oct/28/first-great-british-bee-count-reveals-allotments-make-best-bee-habitats make the best bee habitat.
-* Growing fruit and vegetables in the "tiniest":https://www.theguardian.com/lifeandstyle/2015/jul/18/vegetable-growing-in-small-gardens of spaces.
-* Landmark legal "victory":https://www.theguardian.com/lifeandstyle/2014/oct/31/landmark-legal-victory-allotments-redevelopment-farm-terrace-plot-watford-eric-pickles-housing for allotments over redevelopment.
-* The on-going struggle to "protect":https://www.theguardian.com/lifeandstyle/2013/may/31/turf-war-escalates-britains-allotments allotment land.
-* Turn your "balcony":http://www.verticalveg.org.uk/ into an allotment.
-* Forget Eton, put your child&#8217;s name down for an allotment now. 40 year "wait":http://news.bbc.co.uk/2/hi/uk_news/england/london/8193100.stm for a Camden allotment.
-* It&#8217;s more work than you think. Confessions of a "former":http://news.bbc.co.uk/2/hi/uk_news/magazine/8119428.stm allotment holder.
-* National Trust releases land on some of the best known country estates in Britain for up to "1,000":http://news.bbc.co.uk/2/hi/science/nature/7898314.stm allotments.
-* In June 2007 a committee member was fortunate to be invited to a friend&#8217;s dacha on the outskirts of Lviv in the west of Ukraine. The country&#8217;s fabled fertile soil and the need for self-sufficiency gives rise to a "landscape":ua_allot.html of intense cultivation.
-* &#8217;A lot to lose: London&#8217;s disappearing allotments&#8217; - a "report":https://www.london.gov.uk/about-us/london-assembly/london-assembly-publications/lot-lose-londons-disappearing-allotments from the London Assembly highlights the scarcity of allotments in the capital. The report also contains very comprehensive maps of London wide allotment sites for those with the inclination to search for a site outside the borough.
-* A Hackney resident photographed these remarkably plush Danish "allotments":dk_allot.html on a visit to her homeland in summer 2006.
-* Well it sounds easy enough. A thriving "allotment":https://www.theguardian.com/lifeandstyle/2006/may/13/gardens in just thirty minutes.
-* Everyone is doing it. Composting "tips":https://www.theguardian.com/lifeandstyle/2008/apr/05/gardens16 from a new allotment holder.
-* How to plant a low-maintenance "allotment":https://www.theguardian.com/lifeandstyle/gardening-blog/2012/aug/29/low-maintenance-allotment-how-to and have time to write about it.
+{:.numberlist}
+* Edinburgh allotments 2020 - [photographs](https://www.theguardian.com/lifeandstyle/gallery/2020/apr/16/we-feel-blessed-edinburgh-allotment-holders-in-pictures) during Covid 19 lockdown.
+* National Allotments Week 2016 - [photographs](https://www.theguardian.com/lifeandstyle/ng-interactive/2016/aug/15/growing-together-an-allotment-picture-essay) from a Bristol allotment.
+* It&#8217;s official - [allotments](https://www.theguardian.com/environment/2014/oct/28/first-great-british-bee-count-reveals-allotments-make-best-bee-habitats) make the best bee habitat.
+* Growing fruit and vegetables in the [tiniest](https://www.theguardian.com/lifeandstyle/2015/jul/18/vegetable-growing-in-small-gardens) of spaces.
+* Landmark legal [victory](https://www.theguardian.com/lifeandstyle/2014/oct/31/landmark-legal-victory-allotments-redevelopment-farm-terrace-plot-watford-eric-pickles-housing) for allotments over redevelopment.
+* The on-going struggle to [protect](https://www.theguardian.com/lifeandstyle/2013/may/31/turf-war-escalates-britains-allotments) allotment land.
+* Turn your [balcony](http://www.verticalveg.org.uk/) into an allotment.
+* Forget Eton, put your child&#8217;s name down for an allotment now. 40 year  [wait](http://news.bbc.co.uk/2/hi/uk_news/england/london/8193100.stm ) for a Camden allotment.
+* It&#8217;s more work than you think. Confessions of a [former](http://news.bbc.co.uk/2/hi/uk_news/magazine/8119428.stm) allotment holder.
+* National Trust releases land on some of the best known country estates in Britain for up to [1,000](http://news.bbc.co.uk/2/hi/science/nature/7898314.stm) allotments.
+* In June 2007 a committee member was fortunate to be invited to a friend&#8217;s dacha on the outskirts of Lviv in the west of Ukraine. The country&#8217;s fabled fertile soil and the need for self-sufficiency gives rise to a [landscape](ua_allot.html) of intense cultivation.
+* &#8217;A lot to lose: London&#8217;s disappearing allotments&#8217; - a [report](https://www.london.gov.uk/about-us/london-assembly/london-assembly-publications/lot-lose-londons-disappearing-allotments) from the London Assembly highlights the scarcity of allotments in the capital. The report also contains very comprehensive maps of London wide allotment sites for those with the inclination to search for a site outside the borough.
+* A Hackney resident photographed these remarkably plush Danish [allotments](dk_allot.html) on a visit to her homeland in summer 2006.
+* Well it sounds easy enough. A thriving [allotment](https://www.theguardian.com/lifeandstyle/2006/may/13/gardens) in just thirty minutes.
+* Everyone is doing it. Composting [tips](https://www.theguardian.com/lifeandstyle/2008/apr/05/gardens16) from a new allotment holder.
+* How to plant a low-maintenance [allotment](https://www.theguardian.com/lifeandstyle/gardening-blog/2012/aug/29/low-maintenance-allotment-how-to) and have time to write about it.
 
---- name:sidebar pipeline:redcloth 
+--- name:sidebar
 
-h3. Latest
+### Latest
 
-(linklist)* "Edinburgh allotments during Covid":https://www.theguardian.com/lifeandstyle/gallery/2020/apr/16/we-feel-blessed-edinburgh-allotment-holders-in-pictures
-* "Growing in tiny spaces":https://www.theguardian.com/lifeandstyle/2015/jul/18/vegetable-growing-in-small-gardens
-* "40 year wait for allotment":http://news.bbc.co.uk/1/hi/england/london/8193100.stm
+{:.linklist}
+* [Edinburgh allotments during Covid](https://www.theguardian.com/lifeandstyle/gallery/2020/apr/16/we-feel-blessed-edinburgh-allotment-holders-in-pictures)
+* [Growing in tiny spaces](https://www.theguardian.com/lifeandstyle/2015/jul/18/vegetable-growing-in-small-gardens)
+* [40 year wait for allotment](http://news.bbc.co.uk/1/hi/england/london/8193100.stm)
 
 
-h3. Growing tips
+### Growing tips
 
-(linklist)* "Timely advice from Garden Organic":https://www.gardenorganic.org.uk/growing-advice
+{:.linklist}
+* [Timely advice from Garden Organic](https://www.gardenorganic.org.uk/growing-advice)
 

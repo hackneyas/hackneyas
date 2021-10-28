@@ -3,14 +3,14 @@ title: By laws
 in_menu: false
 template: default.template
 
---- name:content pipeline:redcloth
-h2. Bylaws
+--- name:content
+## Bylaws
 
-p. %{color:green}approved 6 November 2013%
+<p style="color:green"> approved 6 November 2013</p>
 
 1. Each plot shall be let at a rent fixed by the previous year&apos;s AGM or an Emergency General Meeting, payable by the date of the AGM.   Any tenant who fails to pay their annual fees due by the end of the calendar year shall forfeit their plot for reallocation to another member.
 
-2. The plots shall be let in order of application from a register of applicants kept by the secretary [should there be more applicants than there are plots available].
+2. The plots shall be let in order of application from a register of applicants kept by the secretary (should there be more applicants than there are plots available).
 
 3. Any tenant(s) wishing to give up their plot on a temporary basis may do so with the agreement of the Managing Committee.  This should first be discussed with the site representative who will report the circumstances to the Managing Committee for decision.  The Managing Committee will always take into account whether the plot has been kept in good condition and the length of time of the absence, but there may be other specific circumstances that merit consideration.  If the Managing Committee agrees to a temporary absence, the tenant(s) will be placed at the top of the waiting list, to be reallocated a plot upon their return.   Any tenant wishing to give up their plot permanently should inform both their site representative and the Secretary so the plot may be reallocated as quickly as possible.  The Society does not make any refund of plot rental or membership fees.
 
@@ -52,10 +52,11 @@ p. %{color:green}approved 6 November 2013%
 
 22. Any matters arising, not provided for by these bylaws, shall be decided by the Managing Committee.
 
---- name:sidebar pipeline:redcloth
-h3. Society management
+--- name:sidebar
+### Society management
 
-(linklist)* "Society constitution":constitution.html
-* "Neglected plots policy":neglected.html
-* "Checklist for site reps":checklist.html
+{:.linklist}
+* [Society constitution](constitution.html)
+* [Neglected plots policy](neglected.html)
+* [Checklist for site reps](checklist.html)
 

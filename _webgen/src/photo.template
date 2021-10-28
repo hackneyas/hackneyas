@@ -1,41 +1,30 @@
 ---
 template: ~
 ---
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    {include_file: {filename: head_default.html, escape_html: false}}
+    {include_file: {filename: head_photo.html, escape_html: false}}
 
-    <link rel="stylesheet" href="css/fancybox.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="js/fancybox.min.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function() {
-			/* Simple image gallery. Uses default settings */
-			$('.fancybox').fancybox();
-		});
-	</script>
-	<title>{title:}</title>
+    <title>{title:}</title>
   </head>
 
   <body>
-    <div class="container-fluid">
-      <div class="row">
-        {include_file: {filename: top_menu.html, escape_html: false}}
-      </div>
-    </div>
+
+   {include_file: {filename: top_menu.html, escape_html: false}}
     
     <div class="container"> 
 	  <div class="row">
-        <div class="col-sm-9">
+	  
+        <div class="col-sm-9 mt-3 contentalt">
 
           <div id="photowrap">
            <webgen:block name="content" />
           </div>
         </div>  
 
-        <div class="col-sm-3">
-	      <div id="rightside">
+        <div class="col-sm-3 mt-4 rightside">
               <webgen:block name="sidebar" />
-	      </div>
         </div>
       </div> 	
     </div>  

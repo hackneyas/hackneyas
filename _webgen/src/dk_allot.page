@@ -3,22 +3,48 @@ title: Danish allotments
 in_menu: false
 template: photoplain.template
 
---- name:content pipeline:redcloth
-h2. Danish allotments - summer 2006
+--- name:content
+## Danish allotments - summer 2006
 
-<div class="row">
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="dk_allot/dk_1.jpg" data-fancybox-group="gallery" title="">
-                <img src="dk_allot/dk_1.jpg" class="img-responsive" alt="photo1" /></a>
+<div class="row pb-2 pt-2">
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="dk_allot/dk_1.jpg" class="img-fluid hover-shadow cursor" alt="photo1" onclick="openModal();currentSlide(1)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="dk_allot/dk_2.jpg" data-fancybox-group="gallery" title="">
-                <img src="dk_allot/dk_2.jpg" class="img-responsive" alt="photo2" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="dk_allot/dk_2.jpg" class="img-fluid hover-shadow cursor" alt="photo2" onclick="openModal();currentSlide(2)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="dk_allot/dk_3.jpg" data-fancybox-group="gallery" title="">
-                <img src="dk_allot/dk_3.jpg" class="img-responsive" alt="photo3" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="dk_allot/dk_3.jpg" class="img-fluid hover-shadow cursor" alt="photo3" onclick="openModal();currentSlide(3)">
    </div>
+
 </div>
 
---- name:sidebar pipeline:redcloth
+
+<div id="myModal" class="modal">
+  <div class="modal-dialog">
+   <div class="modal-content">
+    <div class="mySlides">
+      <img src="dk_allot/dk_1.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="dk_allot/dk_2.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="dk_allot/dk_3.jpg" class="d-block w-100">
+    </div>
+    
+    <button class="carousel-control-prev" type="button" onclick="plusSlides(-1)">
+       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </button>
+    <button class="carousel-control-next" type="button" onclick="plusSlides(1)">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    </button>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary mx-auto" onclick="closeModal()">Close</button>
+    </div>
+    
+   </div>
+  </div>
+</div>

@@ -3,58 +3,99 @@ title: Compost bin Spring Hill
 in_menu: false
 template: photo.template
 
---- name:content pipeline:redcloth
-h2. Compost bin construction at Spring Hill 3rd December 2005
+--- name:content
+## Compost bin construction at Spring Hill 3rd December 2005
 
-<div class="row">
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost1.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost1.jpg" class="img-responsive" alt="photo1" /></a>
+<div class="row pb-2 pt-2">
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost1.jpg" class="img-fluid hover-shadow cursor" alt="photo1" onclick="openModal();currentSlide(1)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost2.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost2.jpg" class="img-responsive" alt="photo2" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost2.jpg" class="img-fluid hover-shadow cursor" alt="photo2" onclick="openModal();currentSlide(2)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost3.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost3.jpg" class="img-responsive" alt="photo3" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost3.jpg" class="img-fluid hover-shadow cursor" alt="photo3" onclick="openModal();currentSlide(3)">
    </div>
-</div>
-<div class="row">
-   <div class="col-sm-4 thumbnail ">
-                <a class="fancybox" href="sh_compost/compost8.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost8.jpg" class="img-responsive" alt="photo4" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost4.jpg" class="img-fluid hover-shadow cursor" alt="photo4" onclick="openModal();currentSlide(4)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost5.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost5.jpg" class="img-responsive" alt="photo5" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost5.jpg" class="img-fluid hover-shadow cursor" alt="photo5" onclick="openModal();currentSlide(5)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost6.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost6.jpg" class="img-responsive" alt="photo6" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost6.jpg" class="img-fluid hover-shadow cursor" alt="photo6" onclick="openModal();currentSlide(6)">
    </div>
-</div>
-<div class="row">
-   <div class="col-sm-4 thumbnail ">
-                <a class="fancybox" href="sh_compost/compost7.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost7.jpg" class="img-responsive" alt="photo7" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost7.jpg" class="img-fluid hover-shadow cursor" alt="photo4" onclick="openModal();currentSlide(7)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost4.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost4.jpg" class="img-responsive" alt="photo8" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost8.jpg" class="img-fluid hover-shadow cursor" alt="photo5" onclick="openModal();currentSlide(8)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="sh_compost/compost9.jpg" data-fancybox-group="gallery" title="">
-                <img src="sh_compost/compost9.jpg" class="img-responsive" alt="photo9" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="sh_compost/compost9.jpg" class="img-fluid hover-shadow cursor" alt="photo6" onclick="openModal();currentSlide(9)">
    </div>
 </div>
 
 
-p. photos thanks to Claire Adams
+photos thanks to Claire Adams
 
---- name:sidebar pipeline:redcloth
-h3. Compost project
+--- name:sidebar
 
-(linklist)* "Aden Terrace 2006":at_compost.html
-* "Spring Hill 2006":sh_compost2.html
+### Compost project
 
+{:.linklist}
+* [Aden Terrace 2006](at_compost.html)
+* [Spring Hill 2006](sh_compost2.html)
+
+<div id="myModal" class="modal">
+  <div class="modal-dialog">
+   <div class="modal-content">
+    <div class="mySlides">
+      <img src="sh_compost/compost1.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost2.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost3.jpg" class="d-block w-100">
+    </div>
+    
+    <div class="mySlides">
+      <img src="sh_compost/compost4.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost5.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost6.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost7.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost8.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="sh_compost/compost9.jpg" class="d-block w-100">
+    </div>
+
+    <button class="carousel-control-prev" type="button" onclick="plusSlides(-1)">
+       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </button>
+    <button class="carousel-control-next" type="button" onclick="plusSlides(1)">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    </button>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary mx-auto" onclick="closeModal()">Close</button>
+    </div>
+    
+   </div>
+  </div>
+</div>

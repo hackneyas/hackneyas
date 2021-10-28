@@ -1,101 +1,66 @@
 ---
 template: ~
 ---
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    {include_file: {filename: head_default.html, escape_html: false}}
+    {include_file: {filename: head_front.html, escape_html: false}}
 
   	<title>HAS Home</title>
   	<style>
       body {
        /* Margin bottom by footer height */
-         margin-bottom: 190px;
+         margin-bottom: 210px;
       }
       .footer {
        /* Set the fixed height of the footer here */
-        height: 190px;
+        height: 210px;
       }
   	</style>
   </head>
 
   <body>
 
-    <div class="container-fluid">
-      <div class="row">
-        {include_file: {filename: top_menu.html, escape_html: false}}
-      </div>
-    </div>
+    {include_file: {filename: top_menu.html, escape_html: false}}
 
-      <!-- carousel -->
-      <div class="container">
-        <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel">
-          <!-- Carousel indicators -->
-          <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
-          </ol>
-          <!-- Wrapper for carousel items -->
-          <div class="carousel-inner">
-            <div class="item active">
-                <img src="slides/slide1.jpg" alt="pest control">
-            </div>
-            <div class="item">
-                <img src="slides/slide2.jpg" alt="harvest">
-            </div>
-            <div class="item">
-                <img src="slides/slide3.jpg" alt="recyled shed">
-            </div>
-            <div class="item">
-                <img src="slides/slide4.jpg" alt="robin">
-            </div>
-            <div class="item">
-                <img src="slides/slide5.jpg" alt="artichoke">
-            </div>
-          </div>
-          <!-- Left and right controls -->
-          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
+    <%# {include_file: {filename: carousel.html, escape_html: false}} %>
+    <div id="banner-header" class="banner"></div>
 
-
-    <div class="container">
+    <div class="container mt-3 pt-3 pb-3" style="background-color: #F0F8FF;border-width: 1px;border-color: gray; border-style: solid;">
              <!-- temporary notice -->
-			<div class="jumbotron">
 				<h2>Covid 19</h2>
 				<p>PLEASE think of others when going to your allotment: wear gloves or apply hand sanitiser before and after touching ANY hard surfaces: ie padlock, chain, fence rails, watering cans and taps.</p>
-			</div>
+		</div>
 
+    <div class="container">
       <div class="row">
-        <div class="col-sm-8">
- 	        <div id="contentalt">
-               <webgen:block name="content" />
-               <div class="hidden-xs">
-				   <webgen:block name="blockquote" />
-			   </div>   
-               <hr/>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-	        <div id="rightside">
+         <div class="col-md-8 mt-3 contentalt">
+               <webgen:block name="content0" />
+             <div class="more">  
+               <a class="btn btn-outline-success mb-4" role="button" href="history.html">Read more</a>
+             </div>
+               <webgen:block name="content1" />
+             <div class="more">  
+               <a class="btn btn-outline-success mb-3" role="button" href="waiting.html">Read more</a>
+             </div>    
+             <div class="p-3 d-none d-md-block">   
+               <ul class="mainlist">
+                <li><a href="constitution.html">Society constitution</a></li>
+                <li><a href="bylaws.html">Society bylaws</a></li>
+                <li><a href="document.html">Document archive</a></li>
+               </ul>
+             </div>         
+         </div>    
+         <div class="col-md-4 mt-3 bg-light rightside">
               <webgen:block name="sidebar" />
-	        </div>
-	      </div>
+         </div>  
 
-      </div>
-    </div>
+       </div>
 
+     </div>
+      
     {include_file: {filename: footer_front.html, escape_html: false}}
+      
 
 
   </body>

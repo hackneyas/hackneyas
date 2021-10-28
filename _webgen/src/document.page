@@ -3,136 +3,141 @@ title: Documents
 in_menu: false
 template: plain.template
 
---- name:content pipeline:redcloth
-h2. Document archive
+--- name:content
+## Document archive
 
-p. %{color:green}PDF documents require the free <a href="http://www.adobe.com/">Adobe Reader</a> software to view/print them.%
+<p style="color:green">PDF documents require the free <a href="http://www.adobe.com/">Adobe Reader</a> software to view/print them.</p>
 
-h3. Society management
+### Society management
 
-(numberlist)* "Society constitution":constitution.html
-* "Society bylaws":bylaws.html
-* "Neglected plots policy":neglected.html
-* "Checklist for site representatives":checklist.html
+{:.numberlist}
+* [Society constitution](constitution.html)
+* [Society bylaws](bylaws.html)
+* [Neglected plots policy](neglected.html)
+* [Checklist for site representatives](checklist.html)
 
-h3. Composting, green waste and growing tips
+### Composting, green waste and growing tips
 
-(numberlist)* "Compost project 2005-06":compsumm.html
-* "Quick guide to composting":cguide.html
-* "Compost bin construction details":docs/compost_bin.pdf (PDF size 456kb)
-* "Green waste collection dates":grnwaste.html
-* "Growing crops in winter":docs/winter_growing.pdf (PDF size 1471kb) Stephanie Irvine&#8217;s AGM 2014 presentation
+{:.numberlist}
+* [Compost project 2005-06](compsumm.html)
+* [Quick guide to composting](cguide.html)
+* [Compost bin construction details](docs/compost_bin.pdf) (PDF size 456kb)
+* [Green waste collection dates](grnwaste.html)
+* [Growing crops in winter](docs/winter_growing.pdf) (PDF size 1471kb) Stephanie Irvine&#8217;s AGM 2014 presentation
 
-h3. Newsletters
+### Newsletters
 
-(numberlist)* "Spring 2021":docs/spr_2021.pdf (PDF size 2,123kb)
+{:.numberlist}
+* [Spring 2021](docs/spr_2021.pdf) (PDF size 2,123kb)
 AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
-* "Summer 2020":docs/sum_2020.pdf (PDF size 3,366kb)
+* [Summer 2020](docs/sum_2020.pdf) (PDF size 3,366kb)
 Social distanced AGM arrangements, reflections on allotment themed lockdown, growing garlic &#38; asparagus peas, plant identification and Covid alert.
-* "Spring 2020":docs/spr_2020.pdf (PDF size 13,047kb)
+* [Spring 2020](docs/spr_2020.pdf) (PDF size 13,047kb)
 Seed propagation tips, Seeds Share project, HAS seed swap, uses for woodchip, growing Russian red kale, how to compost, book reviews, gardens to visit, recipes and Covid19 advice...
-* "Winter 2019":docs/win_2019.pdf (PDF size 2469kb)
+* [Winter 2019](docs/win_2019.pdf) (PDF size 2469kb)
 AGM 2019 details, combatting pests, growing yacons, recipes, cultivation hits and misses, advice to members and plot awards...
-* "Autumn 2018":docs/aut_2018.pdf (PDF size 3638kb)
+* [Autumn 2018](docs/aut_2018.pdf) (PDF size 3638kb)
 AGM 2018 details, annual plot inspection, open days, growing tomatoes, recipes and planting tips...
-* "Spring 2018":docs/spr_2018.pdf (PDF size 500kb)
+* [Spring 2018](docs/spr_2018.pdf) (PDF size 500kb)
 AGM 2017 report, plot awards, open days, reopening of waiting list, wildlife corner, planting tips, recipes...
-* "Autumn 2017":docs/aut_2017.pdf (PDF size 2,007kb) 
+* [Autumn 2017](docs/aut_2017.pdf) (PDF size 2,007kb) 
 Organic seed order, AGM 2017 details, seed and produce swap, book review, allotment wildlife, recipes, plot inspections, gardening tips...
-* "Spring 2017":docs/spr_2017.pdf (PDF size 404kb)
+* [Spring 2017](docs/spr_2017.pdf) (PDF size 404kb)
 Waiting list review, site inspections, AGM talk by Margaret Willes, growing tips, chard recipes...
-* "Autumn 2016":docs/aut_2016.pdf (PDF size 351kb)
+* [Autumn 2016](docs/aut_2016.pdf) (PDF size 351kb)
 AGM 2016 arrangements, site visits, rent increase, sowing calendar, produce photos...
-* "Winter 2015":docs/win_2015.pdf (PDF size 91kb)
+* [Winter 2015](docs/win_2015.pdf) (PDF size 91kb)
 AGM 2015 minutes, plot awards, plot maintenance reminder and advice... 
-* "Autumn 2015":docs/aut_2015.pdf (PDF size 2,061kb)
+* [Autumn 2015](docs/aut_2015.pdf) (PDF size 2,061kb)
 AGM 2015 arrangements, site visits, seed order, allotment photographs... 
-* "Summer 2015":docs/sum_2015.pdf (PDF size 244kb)
+* [Summer 2015](docs/sum_2015.pdf) (PDF size 244kb)
 Herbs for summer cocktails, tree policy, path maintenance, overwintering...
-* "Winter 2014":docs/win_2014.pdf (PDF size 223kb)
+* [Winter 2014](docs/win_2014.pdf) (PDF size 223kb)
 Winter planting, rise in plot fees, plot awards, Spanish slugs, growing tomatillos... 
-* "Autumn 2014":docs/aut_2014.pdf (PDF size 156kb)
+* [Autumn 2014](docs/aut_2014.pdf) (PDF size 156kb)
 AGM 2014 arrangements, proposed rise in plot fees and re-opening of membership list... 
-* "Spring 2014":docs/spr_2014.pdf (PDF size 684kb)
+* [Spring 2014](docs/spr_2014.pdf) (PDF size 684kb)
 Tree management, allotment promotion group, new growing season, 2013 AGM, plot awards 2013... 
-* "Autumn 2013":docs/aut_2013.pdf (PDF size 160kb)
+* [Autumn 2013](docs/aut_2013.pdf) (PDF size 160kb)
 New AGM 2013 location and date, site visits, vacant post, membership renewal details, seed order... 
-* "Spring 2013":docs/spr_2013.pdf (PDF size 365kb)
+* [Spring 2013](docs/spr_2013.pdf) (PDF size 365kb)
 Neglected plot policy, AGM 2012 minutes, plot awards 2012, sowing calendar... 
-* "Summer 2012":docs/sum_2012.pdf (PDF size 346kb)
+* [Summer 2012](docs/sum_2012.pdf) (PDF size 346kb)
 National Allotments week, AGM 2011 minutes, plot awards 2011, sowing calendar... 
-* "Autumn 2011":docs/aut_2011.pdf (PDF size 147kb)
+* [Autumn 2011](docs/aut_2011.pdf) (PDF size 147kb)
 AGM 2011 news, tightening of neglected plot rules, invitation for new committee members, wildlife consultation...
-* "Summer 2011":docs/sum_2011.pdf (PDF size 178kb)
+* [Summer 2011](docs/sum_2011.pdf) (PDF size 178kb)
 The future of allotments, watering strategy, sowing calendar, vacant posts...
-* "Spring 2011":docs/spr_2011.pdf (PDF size 225kb)
+* [Spring 2011](docs/spr_2011.pdf) (PDF size 225kb)
 Growing opportunities, use of weedkillers, AGM minutes, plot awards, sowing calendar...
-* "Autumn 2010":docs/aut_2010.pdf (PDF size 157kb)
+* [Autumn 2010](docs/aut_2010.pdf) (PDF size 157kb)
 AGM news, volunteers needed, combating potato blight...
-* "Spring 2010":docs/spr_2010.pdf (PDF size 257kb)
+* [Spring 2010](docs/spr_2010.pdf) (PDF size 257kb)
 30 years of HAS, minutes of 2009 AGM, plot awards, gardener&#8217;s calendar...
-* "Summer 2009":docs/sum_2009.pdf (PDF size 343kb)
+* [Summer 2009](docs/sum_2009.pdf) (PDF size 343kb)
 Annual site visits, dealing with aphids, rhubarb recipe...
-* "Spring 2009":docs/spr_2009.pdf (PDF size 260kb)
+* [Spring 2009](docs/spr_2009.pdf) (PDF size 260kb)
 Meet the new Society chair, AGM 2008 minutes and annual plot awards...
-* "Autumn 2008":docs/aut_2008.pdf (PDF size 116kb)
+* [Autumn 2008](docs/aut_2008.pdf) (PDF size 116kb)
 AGM 2008, school trip to Spring Hill, organic seed order, annual membership and plot fees...
-* "Summer 2008":docs/sum_2008.pdf (PDF size 732kb)
+* [Summer 2008](docs/sum_2008.pdf) (PDF size 732kb)
 Waiting list closure, allotment open days, cooking globe artichokes, committee vacancy, proposal on plot 39...
-* "Autumn 2007":docs/aut_2007.pdf (PDF size 367kb)
+* [Autumn 2007](docs/aut_2007.pdf) (PDF size 367kb)
 AGM 2007, new plots at Spring Hill, seed order, gardening tips, marrow recipe, open day, waiting list...
-* "Summer 2007":docs/sum_2007.pdf (PDF size 265kb)
+* [Summer 2007](docs/sum_2007.pdf) (PDF size 265kb)
 New plots at Spring Hill, waiting list latest, site visit dates, open day news, the pesticide debate...
-* "Winter/Spring 2007":docs/spr_2007.pdf (PDF size 74kb)
+* [Winter/Spring 2007](docs/spr_2007.pdf) (PDF size 74kb)
 Neglected plots policy, the fight to save Manor Gardens,planting tips, minutes of the 2006 AGM...
-* "Autumn 2006":docs/aut_2006.pdf (PDF size 84kb)
+* [Autumn 2006](docs/aut_2006.pdf) (PDF size 84kb)
 AGM, proposed revised plot policy, seed order, September gardening tips...
-* "Summer 2006":docs/sum_2006.pdf (PDF size 59kb)
+* [Summer 2006](docs/sum_2006.pdf) (PDF size 59kb)
 Plot policy, vacant post, brown bins, rent increase, site visits,conserving water...
-* "Spring 2006":docs/spr_2006.pdf (PDF size 81kb)
+* [Spring 2006](docs/spr_2006.pdf) (PDF size 81kb)
 Composting primer, new plot sharing bylaw, minutes of 2005 AGM...
-* "Summer 2005":docs/sum_2005.pdf (PDF size 79kb)
+* [Summer 2005](docs/sum_2005.pdf) (PDF size 79kb)
 Soil contamination update, site visits, 2005 AGM date, National Allotment Week, waste disposal...
-* "Spring 2005":docs/spr_2005.pdf (PDF size 259kb)
+* [Spring 2005](docs/spr_2005.pdf) (PDF size 259kb)
 Soil contamination update, new raised bed, minutes of 2004 AGM...
-* "Summer 2004":docs/sum_2004.pdf (PDF size 42kb)
+* [Summer 2004](docs/sum_2004.pdf) (PDF size 42kb)
 Plot judging, open day, soil testing, GLA forum, Hoxton Manor allotments...
 
-h3. Fencing works and new plots at Spring Hill 2007
+### Fencing works and new plots at Spring Hill 2007
 
-p. Photographs of "fence":fence.html replacement at Spring Hill and Spring Lane.
+Photographs of [fence](fence.html) replacement at Spring Hill and Spring Lane.
 
-p. Six new "plots":sh_plots.html were created at Spring Hill when the boundary fence was extended. They are now all let and the enthusiastic new plot holders worked wonders at a clean-up weekend in early May. Masses of glass, car parts, bricks, concrete - and crisp packets - were dug up and chucked on the skip. Nettles, brambles and ground elder were cleared and by Sunday night the skip was full.
+Six new [plots](sh_plots.html) were created at Spring Hill when the boundary fence was extended. They are now all let and the enthusiastic new plot holders worked wonders at a clean-up weekend in early May. Masses of glass, car parts, bricks, concrete - and crisp packets - were dug up and chucked on the skip. Nettles, brambles and ground elder were cleared and by Sunday night the skip was full.
 
-h3. Soil contamination 2004-05
+### Soil contamination 2004-05
 
-(numberlist)* "Hackney Council letter 21/09/05 to all affected allotment holders detailing results of Physiological Based Extraction Testing":docs/contam.pdf (PDF size 24kb)
-* "Hackney Council letter of 8th March 2005":docs/hc080305.pdf (PDF size 18kb)
-* "Hackney Council letter 08/12/04 to Spring Hill allotment holders":docs/final_springhill.pdf (PDF size 14kb)
-* "Hackney Council letter 09/11/04 to Leaside allotment holders":docs/final_leaside.pdf (PDF size 16kb)
-* "Hackney Council letter 09/11/04 to Springdale Road allotment holders":docs/final_springdale.pdf (PDF 16kb)
-* "Hackney Council letter 09/11/04 to Spring Lane allotment holders":docs/final_springlane.pdf (PDF 16kb)
-* "Hackney Council&#8217;s answers to questions posed by the Committee in September 2004":docs/lbh_ans.pdf (PDF 21kb)
+{:.numberlist}
+* [Hackney Council letter 21/09/05 to all affected allotment holders detailing results of Physiological Based Extraction Testing](docs/contam.pdf) (PDF size 24kb)
+* [Hackney Council letter of 8th March 2005](docs/hc080305.pdf) (PDF size 18kb)
+* [Hackney Council letter 08/12/04 to Spring Hill allotment holders](docs/final_springhill.pdf) (PDF size 14kb)
+* [Hackney Council letter 09/11/04 to Leaside allotment holders](docs/final_leaside.pdf) (PDF size 16kb)
+* [Hackney Council letter 09/11/04 to Springdale Road allotment holders](docs/final_springdale.pdf) (PDF 16kb)
+* [Hackney Council letter 09/11/04 to Spring Lane allotment holders](docs/final_springlane.pdf) (PDF 16kb)
+* [Hackney Council&#8217;s answers to questions posed by the Committee in September 2004](docs/lbh_ans.pdf) (PDF 21kb)
 
-h3. Other documents
+### Other documents
 
-(numberlist)* "A.G.M. 2020 report and proposals":docs/agm2020.pdf (PDF size 419kb)
-* "A.G.M. 2020 outcome":docs/agm2020_outcome.pdf (PDF size 35kb)
-* "A.G.M. 2019 minutes":docs/agm2019.pdf (PDF size 39kb)    
-* "A.G.M. 2018 minutes":docs/agm2018.pdf (PDF size 88kb)    
-* "A.G.M. 2017 minutes":docs/agm2017.pdf (PDF size 95kb)    
-* "A.G.M. 2016 minutes":docs/agm2016.pdf (PDF size 89kb)    
-* "A.G.M. 2015 minutes":docs/agm2015.pdf (PDF size 41kb)    
-* "A.G.M. 2014 minutes":docs/agm2014.pdf (PDF size 53kb)    
-* "A.G.M. 2013 minutes":docs/agm2013.pdf (PDF size 94kb)    
-* "A.G.M. 2012 minutes":docs/agm2012.pdf (PDF size 50kb)    
-* "A.G.M. 2011 minutes":docs/agm2011.pdf (PDF size 39kb)    
-* "A.G.M. 2010 minutes":docs/agm2010.pdf (PDF size 40kb)    
-* "A.G.M. 2009 minutes":docs/agm2009.pdf (PDF size 244kb)    
-* "A.G.M. 2008 minutes":docs/agm2008.pdf (PDF size 89kb)    
-* "A.G.M. 2006 minutes":docs/spr_2007.pdf (PDF size 74kb) Winter/Spring 2007 newsletter (pages 3 and 4)    
-* "A.G.M. 2005 minutes":docs/agm2005.pdf (PDF size 50kb)
-* "A.G.M. 2004 minutes":docs/agm2004.pdf (PDF size 50kb)
-* "Organic gardening survey - 2000":docs/survey.pdf (PDF size 7kb)
+{:.numberlist}
+* [A.G.M. 2020 report and proposals](docs/agm2020.pdf) (PDF size 419kb)
+* [A.G.M. 2020 outcome](docs/agm2020_outcome.pdf) (PDF size 35kb)
+* [A.G.M. 2019 minutes](docs/agm2019.pdf) (PDF size 39kb)    
+* [A.G.M. 2018 minutes](docs/agm2018.pdf) (PDF size 88kb)    
+* [A.G.M. 2017 minutes](docs/agm2017.pdf) (PDF size 95kb)    
+* [A.G.M. 2016 minutes](docs/agm2016.pdf) (PDF size 89kb)    
+* [A.G.M. 2015 minutes](docs/agm2015.pdf) (PDF size 41kb)    
+* [A.G.M. 2014 minutes](docs/agm2014.pdf) (PDF size 53kb)    
+* [A.G.M. 2013 minutes](docs/agm2013.pdf) (PDF size 94kb)    
+* [A.G.M. 2012 minutes](docs/agm2012.pdf) (PDF size 50kb)    
+* [A.G.M. 2011 minutes](docs/agm2011.pdf) (PDF size 39kb)    
+* [A.G.M. 2010 minutes](docs/agm2010.pdf) (PDF size 40kb)    
+* [A.G.M. 2009 minutes](docs/agm2009.pdf) (PDF size 244kb)    
+* [A.G.M. 2008 minutes](docs/agm2008.pdf) (PDF size 89kb)    
+* [A.G.M. 2006 minutes](docs/spr_2007.pdf) (PDF size 74kb) Winter/Spring 2007 newsletter (pages 3 and 4)    
+* [A.G.M. 2005 minutes](docs/agm2005.pdf) (PDF size 50kb)
+* [A.G.M. 2004 minutes](docs/agm2004.pdf) (PDF size 50kb)
+* [Organic gardening survey - 2000](docs/survey.pdf) (PDF size 7kb)
 
 

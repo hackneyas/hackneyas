@@ -4,64 +4,50 @@ in_menu: true
 template: front.template
 sort_info: 1
 
---- name:content pipeline:redcloth
+--- name:content0
 
-h2. About us
+## About us
 
-p. The Hackney Allotment Society, founded in 1979, is a registered charity 
-"(number 294128)":https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id=uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_LIFERAY_SHARED_backToSearch=https%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D294128%26_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results&_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=294128 
+The Hackney Allotment Society, founded in 1979, is a registered charity 
+[number 294128](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/294128/full-print)
 managed by a voluntary committee. The aim of the Society is to promote horticulture in the London Borough of Hackney. We have 9 sites across the borough with a total of 133 full plots. Some plots are split into half plots and we have two raised bed plots. Demand for plots is high and a waiting list is maintained. Waiting time is likely to be several years depending on your choice of site.
 
-h2. Becoming a member %{color:#8C001A; font-size:0.8em; font-weight:normal}- list temporarily closed%
+--- name:content1
 
-p. To join the Society and have your name added to the "waiting list":waiting.html you must be a resident of the London Borough of Hackney. Membership of the Society is currently &pound;4 per annum, renewable on 1st October each year.
+<h2> Becoming a member <span style = "color:#8C001A; font-size:0.7em; font-weight:normal">- list temporarily closed</span></h2>
 
-p. As a member, you will receive regular newsletters, and you may attend and vote at the AGM and participate in the running of the Society and other events. When a plot becomes available for you, you will receive an offer letter and be invited to visit the vacant plot prior to acceptance. The plot rent for 2020/21 is &pound;31 per annum for a full plot (&pound;15.50 concessions) and &pound;15.50 per annum for a half plot (&pound;7.75 concessions). The membership fee of &pound;4 is payable in addition to these amounts.
+To join the Society and have your name added to the [waiting list](waiting.html) you must be a resident of the London Borough of Hackney. Membership of the Society is currently &pound;4 per annum, renewable on 1st October each year.
 
---- name:blockquote pipeline:redcloth
+As a member, you will receive regular newsletters, and you may attend and vote at the AGM and participate in the running of the Society and other events. When a plot becomes available for you, you will receive an offer letter and be invited to visit the vacant plot prior to acceptance. The plot rent for 2020/21 is &pound;31 per annum for a full plot (&pound;15.50 concessions) and &pound;15.50 per annum for a half plot (&pound;7.75 concessions). The membership fee of &pound;4 is payable in addition to these amounts.
 
-bq. The most noteworthy thing about gardeners is that they are always optimistic, always enterprising and never satisfied. They always look forward to doing something better than they have ever done before. %{color:black}- Vita Sackville-West%
+--- name:sidebar
 
---- name:sidebar pipeline:redcloth
+### AGM 2021
 
-h3. Tales from a Wood Green allotment
+This year's AGM was held virtually on ZOOM on 6th October. Details to follow.
 
-p. "The Patch:":https://www.bbc.co.uk/sounds/play/m000ykmt A BBC radio programme &#40;registration required&#41; from Wolves Lane allotment.
+### Tales from a Wood Green allotment
 
-h3. A plot matching website
+[The Patch](https://www.bbc.co.uk/sounds/play/m000ykmt) A BBC radio programme &#40;registration required&#41; from Wolves Lane allotment.
 
-"AllotMe:":https://www.allotme.co.uk/ A digital platform to pair anyone with available outdoor space with people seeking to grow their own.
+### A plot matching website
 
-h3. Spring 2021 newsletter
+[AllotMe](https://www.allotme.co.uk/) A digital platform to pair anyone with available outdoor space with people seeking to grow their own.
 
-p. The "Spring":docs/spr_2021.pdf newsletter with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
+### Spring 2021 newsletter
 
-h3. Allotments during the pandemic
+The [Spring](docs/spr_2021.pdf) newsletter with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
 
-p.  A BBC "article":https://www.bbc.co.uk/news/uk-england-essex-57438179 investigating the benefits of allotments during the coronavirus pandemic focusing on a 100 plot site in Colchester.
+### Allotments during the pandemic
 
-h3. Waiting list
+A BBC [article](https://www.bbc.co.uk/news/uk-england-essex-57438179) investigating the benefits of allotments during the coronavirus pandemic focusing on a 100 plot site in Colchester.
 
-p. Since 4th June 2008 the Committee has decided to %{color:#8C001A;}CLOSE% the waiting list for the time-being due to unprecedented demand. However, at the 2017 AGM, it was decided to reopen the list from 1st to 15th March 2018 to enrol up to 100 new members. The waiting list is now closed again for the forseeable future.
-<br/>"more...":waiting.html
+### Plot search
 
-h3. Society history
+The Society is on the lookout for new sites.  If you spot any disused land in Hackney which could be converted into a valuable growing plot, send as much information as possible to our [Secretary](mailto:hackneyallotments@gmail.com) who will investigate.
 
-p. A brief description of the Society&#8217;s "foundation":history.html.
-
-h3. Plot search
-
-p. The Society is on the lookout for new sites.  If you spot any disused land in Hackney which could be converted into a valuable growing plot, send as much information as possible to our "Secretary":mailto:hackneyallotments@gmail.com who will investigate.
-<br/>
-
-<notextile>
-<ul class="linklist">
+<ul class="linklist d-none d-sm-block d-md-none pt-3">
     <li><a href="constitution.html">Society constitution</a></li>
     <li><a href="bylaws.html">Society bylaws</a></li>
-    <li><a href="location.html">Society sites</a></li>
     <li><a href="document.html">Document archive</a></li>
 </ul>
-</notextile>
-
-
-

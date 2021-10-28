@@ -3,44 +3,80 @@ title: Aden Terrace allotments
 in_menu: false
 template: photo.template
 
---- name:content pipeline:redcloth
-h2. Aden Terrace allotments - early summer 2007
 
-<div class="row">
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="at_photo/photo1.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo1.jpg" class="img-responsive" alt="photo1" /></a>
+--- name:content
+## Aden Terrace allotments - early summer 2007
+
+<div class="row pb-2 pt-2">
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo1.jpg" class="img-fluid hover-shadow cursor" alt="photo1" onclick="openModal();currentSlide(1)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="at_photo/photo2.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo2.jpg" class="img-responsive" alt="photo2" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo2.jpg" class="img-fluid hover-shadow cursor" alt="photo2" onclick="openModal();currentSlide(2)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="at_photo/photo3.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo3.jpg" class="img-responsive" alt="photo3" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo3.jpg" class="img-fluid hover-shadow cursor" alt="photo3" onclick="openModal();currentSlide(3)">
    </div>
-</div>
-<div class="row">
-   <div class="col-sm-4 thumbnail ">
-                <a class="fancybox" href="at_photo/photo4.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo4.jpg" class="img-responsive" alt="photo4" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo4.jpg" class="img-fluid hover-shadow cursor" alt="photo4" onclick="openModal();currentSlide(4)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="at_photo/photo5.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo5.jpg" class="img-responsive" alt="photo5" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo5.jpg" class="img-fluid hover-shadow cursor" alt="photo5" onclick="openModal();currentSlide(5)">
    </div>
-   <div class="col-sm-4 thumbnail">
-                <a class="fancybox" href="at_photo/photo6.jpg" data-fancybox-group="gallery" title="">
-                <img src="at_photo/photo6.jpg" class="img-responsive" alt="photo6" /></a>
+   <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <img src="at_photo/photo6.jpg" class="img-fluid hover-shadow cursor" alt="photo6" onclick="openModal();currentSlide(6)">
    </div>
 </div>
 
---- name:sidebar pipeline:redcloth
-h3. Other sites
+--- name:sidebar
+### Other sites
 
-(linklist)* "Church Walk":cw_photo.html
-* "Overbury Street":ob_photo.html
-* "St. Kilda's Road":sk_photo.html
-* "Springdale Road":sr_photo.html
-* "Spring Hill":sh_photo.html
-* "Spring Lane":sl_photo.html
+{:.linklist}
+* [Church Walk](cw_photo.html)
+* [Overbury Street](ob_photo.html)
+* [St. Kilda's Road](sk_photo.html)
+* [Springdale Road](sr_photo.html)
+* [Spring Hill](sh_photo.html)
+* [Spring Lane](sl_photo.html)
+
+<div id="myModal" class="modal">
+  <div class="modal-dialog">
+   <div class="modal-content">
+    <div class="mySlides">
+      <img src="at_photo/photo1.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="at_photo/photo2.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="at_photo/photo3.jpg" class="d-block w-100">
+    </div>
+    
+    <div class="mySlides">
+      <img src="at_photo/photo4.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="at_photo/photo5.jpg" class="d-block w-100">
+    </div>
+
+    <div class="mySlides">
+      <img src="at_photo/photo6.jpg" class="d-block w-100">
+    </div>
+
+    <button class="carousel-control-prev" type="button" onclick="plusSlides(-1)">
+       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </button>
+    <button class="carousel-control-next" type="button" onclick="plusSlides(1)">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    </button>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary mx-auto" onclick="closeModal()">Close</button>
+    </div>
+    
+   </div>
+  </div>
+</div>
+

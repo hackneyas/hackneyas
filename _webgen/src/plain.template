@@ -1,7 +1,8 @@
 ---
 template: ~
 ---
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     {include_file: {filename: head_default.html, escape_html: false}}
 
@@ -9,19 +10,14 @@ template: ~
   </head>
 
   <body>
-    <div class="container-fluid">
-      <div class="row">
-        {include_file: {filename: top_menu.html, escape_html: false}}
-      </div>
-    </div>
+
+   {include_file: {filename: top_menu.html, escape_html: false}}
 
     <div class="container">
       <div class="row">
 
-         <div class="col-sm-12">	
-           <div id="contentalt">
-             <webgen:block name="content" />
-           </div>
+         <div class="col-sm-12 mt-3 contentalt">	
+           <webgen:block name="content" />
          </div>       
        </div>   
     </div>

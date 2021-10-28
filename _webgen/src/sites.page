@@ -4,65 +4,69 @@ in_menu: true
 template: narrowside.template
 sort_info: 2
 
---- name:content pipeline:redcloth
+--- name:content
 
-h2. Allotment sites
+## Allotment sites
 
-p. %{color:green}Please note that all membership enquiries should be directed to the "Secretary":mailto:hackneyallotments@gmail.com?subject=Membership_enquiry not to site representatives.%
+<p style="color:green">Please note that all membership enquiries should be directed to the <a href="mailto:hackneyallotments@gmail.com?subject=Membership_enquiry">Secretary</a> not to site representatives.</p>
 
-h3. London E5
+### London E5
 
-"Leaside Road(location map)":https://www.openstreetmap.org/?mlat=51.56650&mlon=-0.05231#map=18/51.56650/-0.05231
+[Leaside Road](https://www.openstreetmap.org/?mlat=51.56650&mlon=-0.05231#map=18/51.56650/-0.05231 "location map")
 17 plots - entrance at west side of railway bridge over Leaside Road -
 site reps: Jack Eldon and Guy Dehn
 
-"Overbury Street(location map)":https://www.openstreetmap.org/?mlat=51.55498&mlon=-0.04051#map=18/51.55498/-0.04051
+[Overbury Street](https://www.openstreetmap.org/?mlat=51.55498&mlon=-0.04051#map=18/51.55498/-0.04051 "location map")
 11 plots - corner of Overbury Street and Rushmore Road -
 site rep: Julia Clarke
 
-"Spring Hill(location map)":https://www.openstreetmap.org/?mlat=51.57418&mlon=-0.06253#map=18/51.57418/-0.06253
+[Spring Hill](https://www.openstreetmap.org/?mlat=51.57418&mlon=-0.06253#map=18/51.57418/-0.06253 "location map")
 43 plots - north west corner of sports field -
 site reps: Kay Kante, Jon Fuller, Andrea Sinclair, Sylvia Cummins
 
-"Spring Lane(location map)":https://www.openstreetmap.org/?mlat=51.57023&mlon=-0.05577#map=18/51.57023/-0.05577
-18 plots - entrance on footpath at side of River Lea - %{color:green}*ORGANIC*% - 
+[Spring Lane](https://www.openstreetmap.org/?mlat=51.57023&mlon=-0.05577#map=18/51.57023/-0.05577 "location map")
+18 plots - entrance on footpath at side of River Lea - **ORGANIC** - 
 site rep: Helen Bishop, Elsa Hamaz
       
-h3. London E8
+### London E8
 
-"Queensbridge Road(location map)":https://www.openstreetmap.org/?mlat=51.54456&mlon=-0.06945#map=18/51.54456/-0.06945
+[Queensbridge
+Road](https://www.openstreetmap.org/?mlat=51.54456&mlon=-0.06945#map=18/51.54456/-0.06945 
+"location map")
 2 plots - at rear of 362 Queensbridge Road -
 site rep: Philip Turner
-
       
-h3. London N16
+### London N16
 
-"Aden Terrace(location map)":https://www.openstreetmap.org/?mlat=51.55724&mlon=-0.08914#map=18/51.55724/-0.08914
+[Aden Terrace](https://www.openstreetmap.org/?mlat=51.55724&mlon=-0.08914#map=18/51.55724/-0.08914 "location map")
 26 plots - entrance at north end of Clissold Crescent -
 site rep: Susan Sharples
 
-"Church Walk(location map)":https://www.openstreetmap.org/?mlat=51.55363&mlon=-0.08391#map=18/51.55363/-0.08391
+[Church Walk](https://www.openstreetmap.org/?mlat=51.55363&mlon=-0.08391#map=18/51.55363/-0.08391 "location map")
 8 plots - entrance at south end of Church Walk -
 site reps: John Clarke, Sarah Madge
 
-"St. Kilda&#8217;s Road(location map)":https://www.openstreetmap.org/?mlat=51.56706&mlon=-0.08443#map=18/51.56706/-0.08443
+[St. Kilda&#8217;s 
+Road](https://www.openstreetmap.org/?mlat=51.56706&mlon=-0.08443#map=18/51.56706/-0.08443
+"location map")
 4 plots, 1 raised bed - entrance at rear of 57 St Kilda&#8217;s Road -
 site rep: Henrietta Soames
 
-"Springdale Road(location map)":https://www.openstreetmap.org/?mlat=51.55510&mlon=-0.08774#map=18/51.55510/-0.08774
-4 plots - entrance between 40 and 44 Springdale Road - %{color:green}*ORGANIC*% -
+[Springdale
+Road](https://www.openstreetmap.org/?mlat=51.55510&mlon=-0.08774#map=18/51.55510/-0.08774
+"location map")
+4 plots - entrance between 40 and 44 Springdale Road - **ORGANIC** -
 site reps: Annie Wilson
 
---- name:sidebar pipeline:redcloth
-h3. Photographs
+--- name:sidebar
 
-(linklist)* "Aden Terrace":at_photo.html
-* "Church Walk":cw_photo.html
-* "Overbury Street":ob_photo.html
-* "St. Kilda&#8217;s Road":sk_photo.html
-* "Springdale Road":sr_photo.html
-* "Spring Hill":sh_photo.html
-* "Spring Lane":sl_photo.html
+### Photographs
 
-!{height:213px;width:150px}images/shed.jpg(handmade shed at Aden Terrace)!
-
+{:.linklist}
+* [Aden Terrace](at_photo.html)
+* [Church Walk](cw_photo.html)
+* [Overbury Street](ob_photo.html)
+* [St. Kilda&#8217;s Road](sk_photo.html)
+* [Springdale Road](sr_photo.html)
+* [Spring Hill](sh_photo.html)
+* [Spring Lane](sl_photo.html)
