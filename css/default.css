@@ -69,14 +69,14 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
 .rightside h3 {font-size:18px;color: #030; margin-bottom: 15px; margin-top: 15px; line-height: 1.2em;}
 .rightside h4 {font-size:0.9em;color: #2B3856; margin-bottom: 3px; line-height: 0.9em;}
 .rightside p {font-size:16px; font-weight:400; line-height:1.4em; margin:0 0 10px 0px;}
-.rightside a {color:#337ab7; text-decoration:none; font-weight:500;}
+.rightside a {color:#0659f1; text-decoration:none; font-weight:500;}
 .rightside a:hover {color: #4a2a2a; text-decoration: none; border-bottom:1px dotted;}
 .rightside img {border:1px solid #b0b0b0; padding:5px;}
 .rightside img {float:left;}
 
 #photowrap h2 {font-size:24px;color:#030;}
 
-.contentalt a {color:#337ab7; text-decoration:none;}
+.contentalt a {color:#1658d0; text-decoration:none;}
 .contentalt a:hover {color: #4a2a2a; text-decoration: none; border-bottom:1px dotted;}
 .contentalt {font-size:24px;color:#030;}
 .contentalt h3 {font-size:20px;color:#257525;}
