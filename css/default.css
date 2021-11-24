@@ -19,6 +19,10 @@ body {
     color: #fff !important;
 }
 
+.navbar-nav li a:hover {
+    color: #ffff00 !important;
+}
+
 .navbar-default .navbar-toggle {
     border-color: transparent;
     color: #fff !important;
