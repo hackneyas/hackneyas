@@ -10,7 +10,7 @@ template: plain.template
 
 ### Society management
 
-{:.numberlist}
+{:.contentlist}
 * [Society constitution](constitution.html)
 * [Society bylaws](bylaws.html)
 * [Neglected plots policy](neglected.html)
@@ -18,7 +18,7 @@ template: plain.template
 
 ### Composting, green waste and growing tips
 
-{:.numberlist}
+{:.contentlist}
 * [Compost project 2005-06](compsumm.html)
 * [Quick guide to composting](cguide.html)
 * [Compost bin construction details](docs/compost_bin.pdf) (PDF size 456kb)
@@ -27,7 +27,7 @@ template: plain.template
 
 ### Newsletters
 
-{:.numberlist}
+{:.contentlist}
 * [Spring 2021](docs/spr_2021.pdf) (PDF size 2,123kb)
 AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
 * [Summer 2020](docs/sum_2020.pdf) (PDF size 3,366kb)
@@ -109,7 +109,7 @@ Six new [plots](sh_plots.html) were created at Spring Hill when the boundary fen
 
 ### Soil contamination 2004-05
 
-{:.numberlist}
+{:.contentlist}
 * [Hackney Council letter 21/09/05 to all affected allotment holders detailing results of Physiological Based Extraction Testing](docs/contam.pdf) (PDF size 24kb)
 * [Hackney Council letter of 8th March 2005](docs/hc080305.pdf) (PDF size 18kb)
 * [Hackney Council letter 08/12/04 to Spring Hill allotment holders](docs/final_springhill.pdf) (PDF size 14kb)
@@ -120,7 +120,8 @@ Six new [plots](sh_plots.html) were created at Spring Hill when the boundary fen
 
 ### Other documents
 
-{:.numberlist}
+{:.contentlist}
+* [A.G.M. 2021 minutes](docs/agm2021.pdf) (PDF size 55kb) 
 * [A.G.M. 2020 report and proposals](docs/agm2020.pdf) (PDF size 419kb)
 * [A.G.M. 2020 outcome](docs/agm2020_outcome.pdf) (PDF size 35kb)
 * [A.G.M. 2019 minutes](docs/agm2019.pdf) (PDF size 39kb)    

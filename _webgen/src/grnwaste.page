@@ -8,7 +8,7 @@ template: default.template
 
 Hackney Council's green waste collection (the brown bins) will be operating from the following allotment sites with a two weekly cycle:
 
-{:.numberlist}
+{:.contentlist}
 * Aden Terrace - Thursday, Week 2 collection
 * Church Walk (using sacks) - Thursday, Week 2 collection
 * Leaside Road - Monday, Week 1 collection
@@ -20,7 +20,7 @@ Hackney Council's green waste collection (the brown bins) will be operating from
 
 It is always preferable to use the compost bins rather than the brown bins but for pernicious weeds or woody material use the brown bins. The brown bin can be used for:
 
-{:.numberlist}
+{:.contentlist}
 * grass
 * plants
 * leaves
@@ -30,11 +30,11 @@ It is always preferable to use the compost bins rather than the brown bins but f
 
 It cannot be used for:
 
-{:.numberlist}
+{:.contentlist}
 * soil
 * paper
 * glass
-* pet Waste
+* pet waste
 * plastics
 * DIY wood
 * stones and rubble

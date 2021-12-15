@@ -23,13 +23,12 @@ template: ~
 
     {include_file: {filename: top_menu.html, escape_html: false}}
 
-    <%# {include_file: {filename: carousel.html, escape_html: false}} %>
     <div id="banner-header" class="banner"></div>
 
     <div class="container mt-3 pt-3 pb-3" style="background-color: #F0F8FF;border-width: 1px;border-color: gray; border-style: solid;">
              <!-- temporary notice -->
 				<h2>Covid 19</h2>
-				<p>PLEASE think of others when going to your allotment: wear gloves or apply hand sanitiser before and after touching ANY hard surfaces: ie padlock, chain, fence rails, watering cans and taps.</p>
+				<p>Coronavirus remains a serious health risk. You should stay cautious to help protect yourself and others. Please maintain social distancing when working on your allotment, wash or sanitise your hands before visiting and, in the unlikely event of the allotment site becoming crowded, wear a mask.</p>
 		</div>
 
     <div class="container">
