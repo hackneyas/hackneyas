@@ -1,0 +1,57 @@
+---
+title: Home
+in_menu: true
+template: front.template
+sort_info: 1
+
+--- name:content0
+
+## About us
+
+The Hackney Allotment Society, founded in 1979, is a registered charity 
+[number 294128](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/294128/full-print)
+managed by a voluntary committee. The aim of the Society is to promote horticulture in the London Borough of Hackney. We have 9 sites across the borough with a total of 133 full plots. Some plots are split into half plots and we have two raised bed plots. Demand for plots is high and a waiting list is maintained. Waiting time is likely to be several years depending on your choice of site.
+
+--- name:content1
+
+<h2> Becoming a member <span style = "color:#8C001A; font-size:0.7em; font-weight:normal">- list temporarily closed</span></h2>
+
+To join the Society and have your name added to [the waiting list](waiting.html) you must be a resident of the London Borough of Hackney. Membership of the Society is currently &pound;4 per annum, renewable on 1st October each year.
+
+As a member, you will receive regular newsletters, and you may attend and vote at the AGM and participate in the running of the Society and other events. When a plot becomes available for you, you will receive an offer letter and be invited to visit the vacant plot prior to acceptance. The plot rent for 2021/22 is &pound;31 per annum for a full plot (&pound;15.50 concessions) and &pound;15.50 per annum for a half plot (&pound;7.75 concessions). The membership fee of &pound;4 is payable in addition to these amounts.
+
+--- name:sidebar
+
+### Productive allotments
+
+[City allotments](https://www.theguardian.com/environment/2021/dec/15/city-allotments-could-be-as-productive-as-conventional-farms-research-finds) could be as productive as conventional farms.
+
+### AGM 2021
+
+This year's AGM was held virtually on ZOOM on 6th October. The minutes [are now available](docs/agm2021.pdf) with a talk by Vicki Hird, the Chairman's and Treasurer's reports, election of officers, best plot awards and two discussion items.
+
+### Tales from a Wood Green allotment
+
+[The Patch](https://www.bbc.co.uk/sounds/play/m000ykmt) A BBC radio programme &#40;registration required&#41; from Wolves Lane allotment.
+
+### A plot matching website
+
+[AllotMe](https://www.allotme.co.uk/) A digital platform to pair anyone with available outdoor space with people seeking to grow their own.
+
+### Spring 2021 newsletter
+
+The [Spring newsletter](docs/spr_2021.pdf) with AGM 2020 decisions, what to plant in April, Spring plot inspections, plant health, comfrey and nettle feed, urine as fertilizer, site photos, recipes and 2020 plot awards.
+
+### Allotments during the pandemic
+
+A [BBC article](https://www.bbc.co.uk/news/uk-england-essex-57438179) investigating the benefits of allotments during the coronavirus pandemic focusing on a 100 plot site in Colchester.
+
+### Plot search
+
+The Society is on the lookout for new sites.  If you spot any disused land in Hackney which could be converted into a valuable growing plot, send as much information as possible to [our Secretary](mailto:hackneyallotments@gmail.com) who will investigate.
+
+<ul class="linklist d-sm-block d-md-none pt-3">
+    <li><a href="constitution.html">Society constitution</a></li>
+    <li><a href="bylaws.html">Society bylaws</a></li>
+    <li><a href="document.html">Document archive</a></li>
+</ul>
