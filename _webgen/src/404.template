@@ -1,0 +1,25 @@
+---
+template: ~
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {include_file: {filename: head_default.html, escape_html: false}}
+
+    <title>{title:}</title>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+
+         <div class="col-sm-12 mt-3 contentalt">	
+           <webgen:block name="content" />
+         </div>       
+       </div>   
+    </div>
+
+  </body>
+</html>
+
