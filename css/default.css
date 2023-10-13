@@ -148,6 +148,10 @@ img.hover-shadow {
   background-position: center top;
 }
 
+.icon-green {
+  color:#198754;
+}  
+
 @media only screen and (max-width: 575px) {
     .banner {
         background-image: url('../images/banner_small.jpg');
