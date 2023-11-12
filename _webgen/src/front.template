@@ -36,15 +36,16 @@ template: ~
              <div class="more">  
                <a class="btn btn-outline-success mb-3" role="button" href="waiting.html">Read more</a>
              </div>    
-             <div class="p-3 d-none d-md-block">   
+             <div class="p-3 mb-3 d-none d-sm-block">   
                <ul class="mainlist">
                 <li><a href="constitution.html">Society constitution</a></li>
                 <li><a href="bylaws.html">Society bylaws</a></li>
                 <li><a href="document.html">Document archive</a></li>
+                <li><a href="privacy.html">Privacy policy</a></li>
                </ul>
              </div>         
          </div>    
-         <div class="col-md-4 mt-3 bg-light rightside">
+         <div class="col-md-4 mb-3 bg-light rightside">
               <webgen:block name="sidebar" />
          </div>  
 
