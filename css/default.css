@@ -2,7 +2,6 @@ body {
   font-size:16px;
   font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
-    -webkit-overflow-scrolling: touch;
 }
 
 .bg-grey {
@@ -39,12 +38,7 @@ body {
     margin-left: 0px;
 }    
 
-footer {
-    background-color: #dff0d8 !important;
-    margin-top: 20px;
-}
-
-footer p {font-size:16px;}
+footer p {font-size:14px;}
 
 footer img {opacity:0.5; max-height: 55px;}
 
@@ -56,7 +50,7 @@ footer hr {
 }
 
 footer a {color:#0f5132; text-decoration:none;}
-footer a:hover {color: #4a2a2a; text-decoration: none; border-bottom:1px dotted;}
+footer a:hover {color: #4a2a2a; text-decoration: none; border-bottom:none;}
 
 /*.thumbnail {margin-bottom:10px} */
 
@@ -103,14 +97,14 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 150px;
+  margin-bottom: 250px;
 }
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 150px;
+  height: 250px;
 }
 
 /* styling for modal lightbox */
