@@ -97,14 +97,14 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 250px;
+  margin-bottom: 190px;
 }
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 250px;
+  height: 190px;
 }
 
 /* styling for modal lightbox */
