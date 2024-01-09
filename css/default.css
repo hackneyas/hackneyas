@@ -83,6 +83,9 @@ blockquote {color: #030; font-style: italic; border-left: 2px dotted #CCC; paddi
 .more a {color:#198754; text-decoration:none;}
 .more a:hover {color: #ffc107; text-decoration: none;} 
 
+.applic a {color:#8C001A; text-decoration:none;}
+.applic a:hover {color:#000000; background-color:#ffedff; text-decoration: none;} 
+
 .contentlist {list-style:none; margin:0 0 16px 0px; padding:0; font-size:18px;}
 .contentlist li {margin-bottom:0.4em;margin-left:14px;list-style:url(../images/bullet.jpg);padding-left: 3px;}
 .contentlist a {color:#1658d0; font-weight: 500; text-decoration:none;}
